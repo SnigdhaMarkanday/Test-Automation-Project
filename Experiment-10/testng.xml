@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="TAProject">
+	<test name="test">
+		<classes>
+			<class name="Proj1"></class>
+			<class name="Proj2"></class>
+			<class name="Proj8"></class>
+			<class name="TestNG_Lab.ExtentReport"></class>
+			<class name="TestNG_Lab.Proj3"></class>
+			<class name="TestNG_Lab.Proj4"></class>
+			<class name="TestNG_Lab.Proj5"></class>
+			<class name="TestNG_Lab.Proj7"></class>
+			<class name="TestNG_Lab.Proj10"></class>
+			<class name="TestNG_Lab.Proj11"></class>
+			<class name="TestNG_Lab.Proj12"></class>
+			<class name="Exp8.BaseLogin"></class>
+			<class name="Exp8.BaseReg"></class>
+			<class name="Exp8.BaseSearch"></class>
+			<class name="Jenkins.Proj13"></class>
+			<class name="Proj9"></class>
+		</classes>
+	</test>
+</suite>
